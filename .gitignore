@@ -1,0 +1,16 @@
+checkpoints/
+LLMs/
+Qwen2-7B-Instruct-AWQ_outputs/
+*_outputs/
+data/
+sephora_2/
+sephora_2_formatted/
+sephora_data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.pt
+*.pth
+*.pkl
+*.bin
