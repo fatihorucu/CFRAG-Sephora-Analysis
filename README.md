@@ -4,11 +4,6 @@ This repository implements the **Retrieval Augmented Generation with Collaborati
 
 ## 🏗 Project Setup
 
-All commands must be executed within the `cfrag_fth_local` directory.
-
-```bash
-cd "/content/drive/MyDrive/cfrag_fth_local"
-export PYTHONPATH=$PYTHONPATH:$(pwd)
 
 ```
 
