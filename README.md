@@ -5,7 +5,6 @@ This repository implements the **Retrieval Augmented Generation with Collaborati
 ## 🏗 Project Setup
 
 
-```
 
 ---
 
